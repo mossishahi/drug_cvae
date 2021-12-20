@@ -1,0 +1,4 @@
+*.h5ad
+*.pickle
+*.parquet
+*.ipynb_checkpoints
